@@ -1,0 +1,10 @@
+Ship:
+- update layout for acts and prettier buttons
+- don't error when tab isn't in foreground
+- create icon for hamiltime
+- prepare and package to chrome web store - https://developer.chrome.com/webstore/get_started_simple
+
+----
+
+Other:
+
