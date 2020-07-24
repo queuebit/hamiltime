@@ -1,0 +1,19 @@
+{
+  "name": "Hamiltime",
+  "short_name": "hamiltime",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": "Jump to any song in Hamilton on DisneyPlus",
+  "homepage_url": "https://github.com/queuebit/hamiltime",
+  "browser_action": {
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "all_frames": true,
+      "matches": ["https://www.disneyplus.com/video/826379aa-6b31-40ed-9377-b9699cb676fd*"],
+      "css": ["inject.css"],
+      "js": ["inject.js"]
+    }
+  ]
+}
