@@ -1,5 +1,4 @@
 Ship:
-- add a link to open the show
 - don't error when tab isn't in foreground
 - prepare and package to chrome web store - https://developer.chrome.com/webstore/get_started_simple
 
