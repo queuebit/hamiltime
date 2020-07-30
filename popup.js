@@ -3,6 +3,10 @@ document.addEventListener("DOMContentLoaded", function () {
     let target = e.target;
     if (target.nodeName === 'BUTTON') {
       jumpTo({song: target.id}); 
+    } else if (target.id === 'dplus') {
+      window.open("https://www.disneyplus.com/video/826379aa-6b31-40ed-9377-b9699cb676fd");
+    } else if (target.id === 'support') {
+      window.open("https://www.hamiltongoods.com/collections/hamilton-x-black-lives-matter");
     }
     e.stopPropagation()
   });

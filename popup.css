@@ -1,9 +1,15 @@
-body {
+header {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 5em;
+}
+
+section#songs {
   min-width: 55em;
   display: flex;
 }
 
-ul {
+ol {
   padding-inline-start: 2em;
   list-style-type: decimal-leading-zero;
 }
