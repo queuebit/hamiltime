@@ -11,5 +11,6 @@
 > &mdash; via [Chrome Developer Docs](https://developer.chrome.com/extensions/getstarted#manifest)
 > 4. Click on the Chrome Extensions puzzle piece in your nav bar to see all extensions, and then pin Hamiltime extension (#hattip RT)
 
+
 ### Thanks
 - `/u/Balbright` and `u/Plotit` on Reddit for [timestamps](https://www.reddit.com/r/hamiltonmusical/comments/hkz9gx/with_no_chapters_with_disney_and_some_who_will/)
